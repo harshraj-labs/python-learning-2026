@@ -3,6 +3,7 @@
 - String is a sequence of characters surrounded by either single or double quotation marks.
 - In python both single and double quotation are treated equally unlike other programming languages.
 
+
   ```
   my_str_1 = 'Hello'
   my_str_2 = "World"
