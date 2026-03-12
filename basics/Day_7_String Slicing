@@ -2,7 +2,7 @@
 - It lets you extract a specific portion of string or work with only a specific part of it.
 Syntax:
 ```
-string[start:stop]
+string[start:stop] 
 
 my_str = 'Hello world'
 print(my_str[1:4]) # ell
